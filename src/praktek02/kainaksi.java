@@ -9,6 +9,7 @@ public class kainaksi {
          A1.lebar = 20;
          
          A1.cetakInfo();
+         System.out.println("Luas kain = "+A1.hitungLuas());
         
     }
     
