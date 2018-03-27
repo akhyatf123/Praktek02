@@ -19,4 +19,7 @@ public class kain {
         return luas;
     }
     
+    void cetakLuasKain(){
+        System.out.println("Luasnya adalah : "+hitungLuas());
+    }
 }

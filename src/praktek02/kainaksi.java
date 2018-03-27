@@ -10,6 +10,7 @@ public class kainaksi {
          
          A1.cetakInfo();
          System.out.println("Luas kain = "+A1.hitungLuas());
+         A1.cetakLuasKain();
         
     }
     
