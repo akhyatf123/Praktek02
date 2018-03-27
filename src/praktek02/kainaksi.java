@@ -14,7 +14,10 @@ public class kainaksi {
          
          kain A2 = new kain();
          A2.cetakInfo();
-        
+         
+         kain A3 = new kain(50,60);
+         A3.cetakInfo();
+         
     }
     
 }

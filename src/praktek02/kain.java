@@ -9,6 +9,12 @@ public class kain {
         panjang=3;
         lebar=8;
     }
+
+    public kain(double panjang, double lebar) {
+        this.panjang = panjang;
+        this.lebar = lebar;
+    }
+    
     
     
     
