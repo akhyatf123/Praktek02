@@ -11,6 +11,9 @@ public class kainaksi {
          A1.cetakInfo();
          System.out.println("Luas kain = "+A1.hitungLuas());
          A1.cetakLuasKain();
+         
+         kain A2 = new kain();
+         A2.cetakInfo();
         
     }
     
