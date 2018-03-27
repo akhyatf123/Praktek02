@@ -4,6 +4,13 @@ package praktek02;
 public class kain {
     double panjang;
     double lebar;
+
+    public kain() {
+        panjang=3;
+        lebar=8;
+    }
+    
+    
     
     void cetakInfo(){
         System.out.println("===========================");
